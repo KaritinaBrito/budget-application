@@ -1,12 +1,12 @@
-<h1 align="center">MovFlix</h1>
+<h1 align="center">Budget App</h1>
 
 <div align="center">
   <h3>
-    <a target="_blank"  href="https://unrivaled-cat-0184f5.netlify.app/">
+    <a target="_blank"  href="https://budget-demo.netlify.app/enter-budget">
       Demo
     </a>
     <span> | </span>
-    <a target="_blank" href="https://github.com/KaritinaBrito/kanban-to-do">
+    <a target="_blank" href="https://github.com/KaritinaBrito/budget-application">
       Solution
     </a>
   </h3>
